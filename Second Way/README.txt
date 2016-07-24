@@ -1,0 +1,1 @@
+YOU MUST PUT THIS FILE IN %appdata%\microsoft\windows\start menu\programs\startup\cleantemp.bat
